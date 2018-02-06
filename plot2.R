@@ -1,4 +1,3 @@
-setwd('/Users/tonychen/Documents/GitHub/ExData_Plotting1')
 # Read data
 hpc <- read.table('household_power_consumption.txt',
                   header = TRUE, sep=';')
